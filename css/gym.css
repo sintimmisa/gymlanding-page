@@ -1,0 +1,36 @@
+body {
+  background: url(../images/alexander-redl-185764-unsplash.jpg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Audiowide', cursive;
+}
+
+div{
+    background: rgba(70, 131, 180, 0.767);
+    width:60%;
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 10px;
+    font-style:  bold;
+    
+}
+button{
+    background: #000000;
+    padding: 15px 25px;
+    color: #ffffff;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 0px 0px 10px 0px;
+}
+
+h1{
+    font-size: 4em;
+}
+
+p{
+    font-size:1.8em;
+}
+i{
+    color:#fff;
+}
